@@ -1,5 +1,12 @@
 # A unified toolkit for advanced arithmetic in FHE
 
+
+> [!CAUTION]
+> The GPU version of the framework has been implemented solely as a proof of concept, it may be poorly stable and unoptimized. It is based on a custom version of FIDESlib, which I extended mostly translating CPU code to GPU using AI.
+> TLDR: feel free to use this repo to replicate the results of the paper, but i do not suggest to use it as a starting point for further work!
+
+
+
 [![GitHub CI](https://github.com/lorenzorovida/advanced-arithmetic-fhe/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/lorenzorovida/advanced-arithmetic-fhe/actions/workflows/c-cpp.yml)
 <br>
 <a href="https://eprint.iacr.org/2026/450"><img src="imgs/preprint_icon.svg" alt="Link to the preprint PDF" ></a>
