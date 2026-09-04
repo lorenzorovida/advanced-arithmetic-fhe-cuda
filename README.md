@@ -2,8 +2,8 @@
 
 
 > [!CAUTION]
-> The GPU version of the framework has been implemented solely as a proof of concept, it may be poorly stable and unoptimized. It is based on a custom version of FIDESlib, which I extended mostly translating CPU code to GPU using AI.
-> TLDR: feel free to use this repo to replicate the results of the paper, but i do not suggest to use it as a starting point for further work!
+> The GPU version of the framework has been implemented solely as a proof of concept, it may be poorly stable and unoptimized. It is based on a custom version of FIDESlib, which I extended mostly translating CPU code to GPU **using AI**.
+> TLDR: AI mostly wrote the code: feel free to use this repo to replicate the results of the paper, but i do not suggest to use it as a starting point for further work!
 
 
 
